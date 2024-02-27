@@ -10,7 +10,7 @@ Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 ### Program : IBM Advance A.I.
 
 ## Mentor Info
-## Name     : Arifian Saputra
+### Name     : Arifian Saputra
 
 ## Tech Stack:
 - Jupyter Notebook
