@@ -6,11 +6,12 @@ Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 ---
 
 ## Mentee Info
- Name    : Muhammad Lutfi Amin Ghifarullah
- Program : IBM Advance A.I.
+Name    : Muhammad Lutfi Amin Ghifarullah
+<br>
+Program : IBM Advance A.I.
 
 ## Mentor Info
- Name     : Arifian Saputra
+Name     : Arifian Saputra
 
 ## Tech Stack:
 - Jupyter Notebook
